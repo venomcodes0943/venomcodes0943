@@ -52,8 +52,5 @@
 
 ###
 
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/venomcodes0943/venomcodes0943/output/snake.svg" alt="Snake animation" />
 
 ###
