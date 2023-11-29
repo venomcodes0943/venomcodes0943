@@ -1,4 +1,4 @@
-<h2 align="center">👨‍💻 WELCOME TO MY GITHUB PAGE : ) 💀</h2>
+<h1 align="center">👨‍💻 WELCOME TO MY GITHUB PAGE : ) 💀</h1>
 
 ###
 
