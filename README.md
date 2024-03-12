@@ -37,3 +37,11 @@
 </div>
 
 ###
+
+###
+
+<br clear="both">
+
+<img src="https://raw.githubusercontent.com/venomecodes0943/venomecodes0943/output/snake.svg" alt="Snake animation" />
+
+###
