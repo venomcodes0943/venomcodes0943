@@ -1,4 +1,4 @@
-<h1 align="left">Hey 👋 What's up?</h1>
+<h1 align="left">Ohh Its You</h1>
 
 ###
 
@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ Creating bugs since 2021<br>📚 I'm currently learning React And Laravel <br>🎯 Goals: <br>🎲 Fun fact: Bug's Lover</p>
+<p align="left">✨ Creating bugs since 2021<br>📚 I'm currently learning React And Laravel</p>
 
 ###
 
